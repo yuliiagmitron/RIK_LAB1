@@ -1,0 +1,61 @@
+# ================================
+# Visual Studio / .NET
+# ================================
+
+## Build results
+bin/
+obj/
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Visual Studio cache
+.vs/
+
+## Debug / Release folders
+Debug/
+Release/
+x64/
+x86/
+Any CPU/
+
+## Rider / ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+## NuGet
+packages/
+*.nupkg
+*.snupkg
+
+## Logs
+*.log
+
+## OS generated files
+Thumbs.db
+Desktop.ini
+
+## Backup & temp files
+*.tmp
+*.bak
+*.old
+*.swp
+
+## Publish output
+publish/
+
+## Test results
+TestResults/
+
+## JetBrains IDE
+.idea/
+
+# ================================
+# Optional (uncomment if needed)
+# ================================
+
+# App.config (yeui ia oi?ao eii?oeoe eiio?ae)
+# App.config
